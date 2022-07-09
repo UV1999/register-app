@@ -1,0 +1,5 @@
+.errorName {
+  display: flex;
+  color: red;
+  margin-top: 5px;
+}
